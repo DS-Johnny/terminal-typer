@@ -1,0 +1,7 @@
+LICENSE
+README.md
+pyproject.toml
+terminal_typer.egg-info/PKG-INFO
+terminal_typer.egg-info/SOURCES.txt
+terminal_typer.egg-info/dependency_links.txt
+terminal_typer.egg-info/top_level.txt
