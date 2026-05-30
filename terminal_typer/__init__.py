@@ -1,0 +1,1 @@
+from .funcao_escrita import escrever

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+terminal_typer/__init__.py
+terminal_typer/funcao_escrita.py
+terminal_typer.egg-info/PKG-INFO
+terminal_typer.egg-info/SOURCES.txt
+terminal_typer.egg-info/dependency_links.txt
+terminal_typer.egg-info/top_level.txt
